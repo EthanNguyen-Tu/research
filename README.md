@@ -14,7 +14,7 @@ This repository contains code Ethan Nguyen-Tu used in research-related coursewor
     - **Related Files:**
       1. "Nguyen-Tu_ECON2250_DAP(Code).do" - Code that analyzes and creates graphs from cross-sectional individual data on sleep patterns from the Wooldridge datasets, called “SLEEP75.dta", using Stata.
     - Copyright (c) 2021 Ethan Nguyen-Tu
-3. ### Scope Insensitivity & Charitable Giving**
+3. ### Scope Insensitivity & Charitable Giving
     - **Course:** ECON 4803 Special Topics: Behavioral Economics
     - **Related Files:**
       1. "Nguyen-Tu_ECON4803_ScopeSensitivityAnalysis.do" - Code that cleans and analyzes the collected-for-the-project Qualtrics responses with regressions and statistical tests using Stata.
